@@ -1,3 +1,7 @@
+# example python code showing how to request a human readable quasi-unique ID or key from the humanid api
+# full documentation at humanid.hankapi.com
+# provided without warranty
+
 import requests
 import json
 
